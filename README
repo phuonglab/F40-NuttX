@@ -13,6 +13,8 @@ C1:
   cd kconfig-frontends-3.3.0-1
   ./configure --prefix to /sal folder 
   make install
++Build http://romfs.sf.net/
+rename path in make file
 +Build Nuutx:
   get source code: apps nuttx misc
   cd nuttx/tools
